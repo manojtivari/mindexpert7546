@@ -16,7 +16,7 @@ I'm Kundan a CSE student of Mahendra Institute of technology tamilnadu
 <li> 😜 I have little knowledge of Cyber security, Ethical hacking, But I currently interested in Android App Development. </li>
 <li> 📥 You can reach me through my Gmail: kk3846064@gmail.com 
   
-  ## 🚀 Languages and Tools:
+  ## 🚀 Languages and Tools
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
